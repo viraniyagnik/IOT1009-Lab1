@@ -1,4 +1,6 @@
-
+//Name:Yagnik Virani
+//Student number: A00227162
+//course: Computer programming IoT(CPIN)
 public class DiceGame
 {
 

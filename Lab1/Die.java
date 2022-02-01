@@ -1,3 +1,7 @@
+//Name:Yagnik Virani
+//Student number: A00227162
+//course: Computer programming IoT(CPIN)
+
 //Die class with constructors
 public class Die {
 
